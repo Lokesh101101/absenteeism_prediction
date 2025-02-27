@@ -14,7 +14,7 @@ Highlight the focus on actionable insights, including demographic patterns, abse
 - Methodology
 - Key Findings
 - Models
-- Usage
+
 ### 📌 Installation:
 
 List required Python libraries (e.g., Pandas, Scikit-learn, NumPy).
